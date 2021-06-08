@@ -1,0 +1,6 @@
+app/static
+venv
+postgres
+.vscode
+__pycache__/
+*.py[cod]
