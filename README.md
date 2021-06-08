@@ -1,6 +1,10 @@
 ## Installation
 
-Your system must have [docker-compose](https://docs.docker.com/compose/install/) to follow along.
+For setting virtual environment variables:
+```
+source ./.env
+```
+Docker compose setting
 
 ```
 docker-compose build
